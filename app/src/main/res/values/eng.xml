@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="l1" translatable="false">Do you want ot delete this file?</string>
+    <string name="l2" translatable="false">This file will be deleted!</string>
+    <string name="l3" translatable="false">Denied</string>
+    <string name="l4" translatable="false">Think until tomorrow</string>
+    <string name="l5" translatable="false">Exit</string>
+    <string name="l6" translatable="false">Do you want ot exit?</string>
+</resources>

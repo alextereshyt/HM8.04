@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="l1" translatable="false">Ви хочете видалити файл?</string>
+    <string name="l2" translatable="false">Файл видалений остаточно!</string>
+    <string name="l3" translatable="false">Відмовлено</string>
+    <string name="l4" translatable="false">Подумайте до заватра</string>
+    <string name="l5" translatable="false">Вихід</string>
+    <string name="l6" translatable="false">Ви дійсно хочете вийти?</string>
+</resources>
